@@ -1,0 +1,65 @@
+Assignment
+
+1.print 5 five name without new line
+
+#include <stdio.h>
+int main(){
+    printf("pooja ");
+    printf("poonam ");
+    printf("kartikey ");
+    printf("mohit ");
+    printf("nikita");
+    return 0;
+
+}
+
+2.print 5 countries name without new line
+
+#include <stdio.h>
+int main(){
+    printf("india ");
+    printf("africa ");
+    printf("russia ");
+    printf("china ");
+    printf("korea");
+    return 0;
+}
+
+3.print 5 cities name with new line
+
+#include<stdio.h>
+int main(){
+    printf("chittor\n");
+    printf("jaipur\n");
+    printf("bhilwara\n");
+    printf("pali\n");
+    printf("ajmer");
+    return 0;
+
+}
+
+4.print 5 cities name with no new line
+
+#include<stdio.h>
+int main(){
+    printf("pizza ");
+    printf("burger ");
+    printf("maggi ");
+    printf("manchurian ");
+    printf("pav bhaji ");
+    return 0;
+
+}
+
+5. print 5 cafe names with new line 
+
+#include<stdio.h>
+int main(){
+    printf("cafe quaint\n");
+    printf("cafe bae\n");
+    printf("nothinf before coffee\n");
+    printf("stepout cafe\n");
+    printf("anokhi cafe");
+    return 0;
+
+}
